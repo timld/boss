@@ -1,0 +1,12 @@
+[submodule "public/steal"]
+	path = public/steal
+	url = git://github.com/timld/steal.git
+[submodule "public/jquery"]
+	path = public/jquery
+	url = git://github.com/timld/jquerymx.git
+[submodule "public/documentjs"]
+	path = public/documentjs
+	url = git://github.com/timld/documentjs.git
+[submodule "public/funcunit"]
+	path = public/funcunit
+	url = git://github.com/timld/funcunit.git
